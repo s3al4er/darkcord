@@ -20,7 +20,7 @@
 ```
 
 ```
-1. Устанавливаем библиотеки pyinstallerm colorama, pyfiglet
+1. Устанавливаем библиотеки pyinstaller, colorama, pyfiglet
 2. Скачиваем исходники.
 3. Открываем командную строку, переходим в директорию с исходниками.
 4. Пишем pyinstaller Darkcord.py
